@@ -3,7 +3,7 @@
 
 <a href="https://gamebanana.com/mods/692897">Mod Page in Gamebanana</a>
 <h2>Requirements</h2>
-<p>Psych Engine 1.0.4 & P-Slice Engine</p>
+<p>Psych Engine 1.0.4 or P-Slice Engine(last version)</p>
 
 <h2>What the mod does?</h2>
 <p>This pack contains my own popups (sick, good, etc.), as well as my own scripts.:
