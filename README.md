@@ -7,6 +7,7 @@
 
 <h2>What the mod does?</h2>
 <p>This pack contains my own popups (sick, good, etc.), as well as my own scripts.:
+
 1) Modified gameHUD (score text);
 <img src="https://images.gamebanana.com/img/ss/mods/6a4fe4adda725.jpg" height="120">
 
